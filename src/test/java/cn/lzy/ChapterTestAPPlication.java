@@ -21,7 +21,7 @@ public class ChapterTestAPPlication {
     @Test
     public void getHello() {
         String result = mChapterController.sayHello();
-        System.out.println(TAG + "--- 单元测试返回的数据 1111---" + result);
+        System.out.println(TAG + "--- 单元测试返回的数据 ---" + result);
     }
 
 }
